@@ -36,7 +36,7 @@
         <img src="./images/division.png" alt="division">
       </div>
       <br />
-      <p>Enter the two numbers you want to divide/p>
+      <p>Enter the two numbers you want to divide</p>
       <form action="answer.php" method="GET">
         <!-- Numeric Textfield with Floating Label -->
         <div
@@ -49,7 +49,6 @@
         </div>
         <br />
         <p>÷</p>
-        <br />
         <!-- Numeric Textfield with Floating Label -->
         <div
           class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
